@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<settings>	
+
+		<auto_play>
+			<defaults symbol="circular"/>
+			<tweenIn x="500" y="120" width="10" height="10" tint="0xFF9600" alpha="0.5"/>
+			<tweenOver alpha="1"/>
+		</auto_play>
+
+		
+    	<prev_button>
+			<defaults round_corners="5,5,5,5"/>
+			<tweenOver tint="0xFFFFFF" scaleX="1.1" scaleY="1.1"/>
+			<tweenOut tint="0x000000" />
+		</prev_button>
+		
+    	<prev_symbol>
+	  <defaults  type="1" />
+			<tweenOver tint="0x000000" />			
+		</prev_symbol>
+		
+    	<next_button>
+			<defaults round_corners="5,5,5,5"/>			
+			<tweenOver tint="0xFFFFFF"  scaleX="1.1" scaleY="1.1"/>
+			<tweenOut tint="0x000000" />
+		</next_button>
+		
+    	<next_symbol>
+	  <defaults  type="1" />
+			<tweenOver tint="0x000000" />
+		</next_symbol>	
+
+
+
+		<description>
+			<defaults round_corners="10, 10, 10, 10" heading_text_size="22" heading_text_color="0xFF0000" paragraph_text_size="13" paragraph_text_color="0x000000"/>
+			<tweenIn x="500" y="80" width="360" height="90" alpha="0.15"/>
+			<tweenOver alpha="0.3"/>
+		</description>	
+	
+		<transitions slicing="vertical" direction="down" duration="0.6" delay="0.2" cube_color="0x611811"/>
+	
+	</settings>
+
+
+	<slides>
+
+	
+		<slide>
+			<url>assets/banners/01.jpg</url>
+
+		</slide>
+		
+		<transition num="1" direction="up" z_multiplier="4"/>		
+		
+		<slide>
+			<url>assets/banners/02.jpg</url>
+		</slide>
+		
+		<transition duration="0.6" delay=".2" direction="down"/>		
+		
+		<slide>
+			<url>assets/banners/03.jpg</url>
+		</slide>	
+		
+		<transition num="3" slicing="horizontal" direction="left" delay="0.05"/>			
+		
+		<slide>
+			<url>assets/banners/04.jpg</url>
+		</slide>
+			
+		<transition num="3"/>		
+		
+		<slide>
+			<url>assets/banners/05.jpg</url>
+		</slide>	
+					
+		<transition num="6" slicing="horizontal" direction="right" duration="0.8" delay="0.05" z_multiplier="5"/>	
+		
+		<slide>
+			<url>assets/banners/06.jpg</url>
+		</slide>				
+
+		<slide>
+			<url>assets/banners/07.jpg</url>
+		</slide>
+		
+		<transition duration="0.6" delay=".2" direction="down"/>		
+					
+		<slide>
+			<url>assets/banners/08.jpg</url>
+		</slide>
+		
+		<transition duration="0.6" delay=".2" direction="down"/>		
+
+		<slide>
+			<url>assets/banners/09.jpg</url>
+		</slide>
+		<transition num="6" slicing="horizontal" direction="right" duration="0.8" delay="0.05" z_multiplier="5"/>	
+
+		<slide>
+			<url>assets/banners/10.jpg</url>
+		</slide>
+		
+		<transition duration="0.6" delay=".2" direction="down"/>		
+
+				<slide>
+			<url>assets/banners/11.jpg</url>
+		</slide>
+		
+		<transition duration="0.6" delay=".2" direction="down"/>		
+
+
+	</slides>
+</data>

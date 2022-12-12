@@ -1,0 +1,1 @@
+[07-Jul-2022 18:09:14 Asia/Calcutta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8192 bytes) in /home/goldenarchco/public_html/php/class.fileuploader.php on line 528
