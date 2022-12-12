@@ -37,9 +37,18 @@
                Online Admissions
             </h1>
             <div class="lg:max-w-lg text-lg">
-               <p>
-                  The safety of our children has always been closest to the heart of Golden Arch. Thus taking the current COVID-19 situation into account, Golden Arch brings to you a completely online admission process with a zero margin for Corona risk.
+               <p class="text-lg  pb-4">
+               This is to facilitate admission process for those who are unable to visit us. <br>
+               Please follow the steps as below. 
                </p>
+               <ul class="list-decimal list-inside text-base">
+               <li> Fill in the enquiry form. </li>
+               <li> You will recieve a call from our office within three working days. </li>
+               <li> To pose your queries and fix up an online observation session with the child.</li>
+               <li> You will receive a confirmation from school once selected. </li>
+               <li> Admission formalities to be completed. </li>
+            </ul>
+
             </div>
          </div>
          <div>

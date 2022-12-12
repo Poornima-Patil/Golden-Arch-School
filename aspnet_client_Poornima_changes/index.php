@@ -595,6 +595,55 @@
                   </p>
                </div>
             </div>
+
+            <div class="accordion-item">
+               <a>Is Nursery same as Montessori?</a>
+               <div class="content">
+                  <p>
+                     Montessori is the name of the method  followed across all age groups.
+                     It begins as Level 1 in a Montessori school and Nursery is the class with which
+                     children generally begin their schooling in a tradional school.
+                     Both are for children age of 3.
+                  </p>
+               </div>
+            </div>
+
+            <div class="accordion-item">
+               <a>What is the difference between a Montessori school and regular school?</a>
+               <div class="content">
+                  <p>
+                     A Montessori school is a unique set up of classroom in which a mixed age
+                     group of children from age 3-6 learn together unlike the regular school.<br>
+                     In a Montessori, children learn by self exploration, discovery and hands on work.
+                     Montessori is Child centric where as it is Syllabus centric in conventional school.
+                     
+                  </p>
+               </div>
+            </div>
+
+            <div class="accordion-item">
+               <a>Which age is best for pre nursery?</a>
+               <div class="content">
+                  <p>
+                     Pre nursery begins at One and a half years of age.
+                     This is also called as the toddlers program or Pre Montessori.
+                  </p>
+               </div>
+            </div>
+
+            <div class="accordion-item">
+               <a>What is the difference between Montessori and Pre Primary?</a>
+               <div class="content">
+                  <p>
+                        Montessori is the name of a method and not the level of class.
+                        It can even extend upto 10th grade. Pre primary is a section of classes before the Primary
+                        education. Classes before the formal education starts,that is any class levels 
+                        prior to Grade 1 is pre primary.
+
+                  </p>
+               </div>
+            </div>
+
          </div>
       </div>
    </section>
