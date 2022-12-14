@@ -787,14 +787,16 @@ input:focus {
 
 #OM-slide1 {
     background-color:#65BFB3;
-    min-width:400px;
+  
+    
 }
 
 #OM-slide2 {
     background-color:#01A294;
+    
 }
 #OM-slide3 {
-    min-width:400px;
+  
 }
 img.OM-slide {
     max-width: 369px;
@@ -803,17 +805,22 @@ img.OM-slide {
     overflow-x: hidden !important;
 }
 
+
 .video-container {
-    width: 350px; 
+    min-width: 350px; 
     height: 420px;
     background: #9ad2cb;
     border-radius: 20px;
 }
 
+
 @media (max-width: 630px) {
     .video-container {
         width: calc(85vw);
         height: calc(65vw);
+    }
+    .OP-img {
+        max-width:100px;
     }
 }
 
@@ -824,6 +831,9 @@ img.OM-slide {
     }
     img.OM-slide {
         max-width: calc(85vw);
+    }
+    .OP-img {
+        max-width:100px;
     }
 }
 

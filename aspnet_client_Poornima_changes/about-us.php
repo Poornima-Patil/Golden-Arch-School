@@ -24,7 +24,7 @@
 	<link rel="icon" type="image/png" sizes="32x32" href="assets/Img/favicon/favicon-32x32.png">
 	<link rel="icon" type="image/png" sizes="16x16" href="assets/Img/favicon/favicon-16x16.png">
 	<link rel="manifest" href="assets/Img/favicon/site.webmanifest">
-	<link rel="stylesheet" href="styles.css?v=10" />
+	<link rel="stylesheet" href="styles.css?v=3" />
 	<title>About Us | Golden Arch Montessori School</title>
 </head>
 
@@ -53,38 +53,40 @@
 			<h1 class="OP-heading uppercase mb-8 text-center md:text-left uppercase text-3xl sm:text-4xl lg:text-5xl">
 				OUR PHILOSOPHY
 			</h1>
-			<div class="sm:flex justify-center md:justify-start flex-wrap xl:flex-no-wrap m-8">
-                <div class="flex flex-col mx-auto mb-6 lg:mr-8 gap-8  md:w-2/3 p-8 rounded-md bg-white border-gray-900">
-                    <div class="flex flex-col-reverse md:flex-row justify-center align-center">
-                        <p class="text-xs italic text-center pt-8 md:pt-0">"True Education broadens and deepens the mind as well as forges a healthy body.
+			<div class="flex justify-center md:justify-start flex-wrap xl:flex-no-wrap m-8">
+                <div class="flex flex-col mb-6 lg:mr-8 w-full lg:w-1/3 gap-8 p-8 rounded-md bg-white border-gray-900 justify-center align-center">
+                    <div class="flex flex-col-reverse md:flex-row justify-center align-center gap-4">
+                        <p class="text-center md:text-left text-sm md:text-xs italic md:pt-0">"True Education broadens and deepens the mind as well as forges a healthy body.
                             It is also a step towards a cultivated intellect and passion and the full development of personality".
                         </p>
-						<div class="flex flex-col ml-8">
-                        <img class="border-double border-4 border-gray-900" src="assets/Img/disaku_ikeda.jpg">
+						<div class="flex flex-col justify-center">
+                        <img class="OP-img border-double border-4 border-gray-900 mx-auto" src="assets/Img/disaku_ikeda.jpg">
 						<p class="text-xs text-center font-semibold"> Dr.Disaku Ikeda </p>
 						</div>
-                    </div>
+                	</div>
                     
-                    <div class="flex flex-col md:flex-row"> 
-						<div class="flex flex-col mr-8">
-                        <img class="border-double border-4 border-gray-900" src="./assets/Img/maria.webp">
+                    <div class="flex flex-col md:flex-row justify-center align-center gap-4"> 
+						<div class="flex flex-col">
+                        <img class="mx-auto OP-img border-double border-4 border-gray-900" src="./assets/Img/maria.webp">
 						<p class="text-xs text-center font-semibold">Dr. Maria Montessori</p>
 						</div>
-                        <p class="text-xs italic text-center pt-8 md:pt-0"> "The yound child has an amazing capacity to absorb certain skills, without undue effort
+                        <p class="text-sm md:text-xs italic text-center md:text-right md:pt-0"> "The yound child has an amazing capacity to absorb certain skills, without undue effort
                              and with exactness that is unparallel at any other times in life."
                         </p>
 					
                     </div>  
                 </div>
-            <div class="mx-auto md:ml-0 mb-6 lg:mr-8 md:w-2/3 border-gray-600 p-8  bg-white rounded-md">
+            <div class="w-full lg:w-1/3 object-fit mx-auto md:ml-0 mb-6 lg:mr-8  border-gray-600 p-8  bg-white rounded-md">
                 <img src="./assets/Img/OP-2-trimmed.png">
                 <p class="text-center text-black-900 pt-4 italic bg-white-600 text-sm"> A caged bird does not sing <br> A locked mind does not wander <br> 
                 The Montessori method opens doors to a child's imagination.</p>
-            </div>
-            <div class="video-container p-4 inline-block">
-			<iframe width="100%" height="100%" src="https://www.youtube.com/embed/GcgN0lEh5IA">
-			</iframe>
 			</div>
+			<div class="w-full lg:w-1/3 video-container p-4 inline-block">
+				<iframe width="100%" height="100%" src="https://www.youtube.com/embed/GcgN0lEh5IA">
+				</iframe>
+			</div>
+			</div>
+          
 			</div>
 		
 	</section>
@@ -96,19 +98,18 @@
 				OUR METHODOLOGY
 			</h1>
 			<div id="OM-slides" class="owl-theme">
-			<!--<div id="OM-slide" class="sm:flex justify-center md:justify-start flex-wrap xl:flex-no-wrap m-8 gap-8"> -->
-				<div id="OM-slide1" class="text-xs md:p-8 md:mb-6 pt-0" >
-					<div class="flex gap-8 text-center pb-4">
+				<div id="OM-slide1" class="text-xs p-8 md:mb-6 pt-0" >
+					<div class="flex gap-8 text-center pb-4 w-full">
 						<div class="bg-gray-600 rounded-br-xl text-white w-40 pb-8">
-							<ul class="list-decimal list-inside text-left pt-4"> <span class="text-sm font-bold bg-orange-600 pl-4"> Montessori Method</span> 
+							<ul class="list-decimal list-inside text-left pt-4"> <span class="text-sm font-bold bg-orange-600"> Montessori Method</span> 
 								<li class="text-left px-4 pt-4"> One to One learning.</li>
 								<li class="text-left px-4"> Child Oriented. </li>
 								<li class="text-left px-4"> Small & Secured. </li>
 								<li class="text-left px-4 pb-4"> Totally stress free.</li>
 							</ul> 
 						</div>
-						<div class="bg-gray-600 rounded-br-xl text-white  md:pt-4">	
-								<ul class="list-decimal list-inside text-right"> <span class="font-bold text-sm bg-orange-600 pr-4"> Traditional Method </span>
+						<div class="bg-gray-600 rounded-br-xl text-white pt-4">	
+								<ul class="list-decimal list-inside text-right"> <span class="font-bold text-sm bg-orange-600"> Traditional Method </span>
 									<li class="text-left px-4 pt-4"> Group learning.</li>
 									<li class="text-left px-4"> Syllabus Oriented.</li>
 									<li class="text-left px-4"> Big & Insecured. </li>
